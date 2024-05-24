@@ -1,0 +1,64 @@
+.view5-botsp{
+    font-size: 20px;
+    color: rgb(96, 95, 95);
+}
+
+.view5-bottra{
+    font-size: 10px;
+    color: gray;
+}
+
+.position-rel{
+    position: relative;
+}
+
+
+.w-25{
+    width: 25%;
+}
+
+.top-product .product-sale{
+    background-color:#d4f59b;
+    position: absolute ;
+    top: 0rem;
+    left: 9rem;
+    color: white;
+}
+
+.bot-product{
+    position: absolute;
+    background-color: gray;
+    color: black;
+    top: 60%;
+    left: 0;
+    display: none;
+}
+
+.bot-product:hover .btn-add{
+    background-color: black;
+    color: white;
+}
+
+
+.mid-product{
+    padding-right: 76px;
+}
+
+
+.listProduct{
+    padding-bottom: 40px;
+    flex-wrap: wrap;
+}
+
+.view5-botright{
+    padding-left: 82px;
+}
+
+.view5-checkbox{
+    font-size: 10px;
+}
+
+.giá{
+    justify-content: space-between;
+    margin: 10px 20px;
+}

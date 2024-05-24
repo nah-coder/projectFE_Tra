@@ -1,0 +1,38 @@
+.word{
+    padding-left: 198px;
+    padding-top: 28px;
+    text-align: justify;
+    width: 65%;
+}
+
+.image{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.tong{
+    display: flex;
+}
+
+.letrai{
+    text-align: inherit;
+}
+
+.news{
+    padding-left: 58px;
+    padding-top: 30px;
+}
+
+.hotay{
+    width: 69%;
+    text-align: justify;
+}
+
+.tintuc{
+    display: flex;
+    padding: 4% 0%;
+}
+
+.anh{
+    width:230px;
+}

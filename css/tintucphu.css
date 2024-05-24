@@ -1,0 +1,33 @@
+.menu-body{
+    font-size: 165%;
+    font-weight: 900;
+}
+
+.container{
+    margin: auto;
+    width: 74%;
+}
+
+.menu-11{
+    padding: 5% 3%;
+}
+
+.menu-22{
+    width: 165%;
+    padding: 5% 3%;
+}
+
+.menu-33{
+    width: 165%;
+    padding: 5% 3%;
+}
+
+.content{
+    text-align: justify;
+}
+
+p{
+    padding-top: 5%;
+}
+
+

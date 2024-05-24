@@ -1,0 +1,58 @@
+
+
+.view1-section{
+    padding-top: 100px;
+}
+
+.tong2div{
+    position: relative;
+}
+
+
+.menu{
+    padding-top: 20px;
+
+}
+
+
+
+.item{
+    padding-left: 30px;
+}
+
+.view4-image{
+    text-align: center;
+    
+}
+
+.view4-form{
+    padding-left: 60%;
+    padding-top: 15%;
+
+}
+.view4-body{
+    position: relative;
+    
+}
+
+.view4-input{
+    
+    border: 3px solid rgb(173, 221, 14);
+    padding: 7px 7px;
+    margin-bottom: 10px;
+}
+
+.view4-input1{
+    padding-bottom: 7px;
+    
+}
+
+
+.bottom-con{
+    width: 35%;
+    height: 40px;
+}
+
+.text{
+    border: none;
+}

@@ -1,0 +1,87 @@
+*{
+    color: #000!important;
+    font-size: 20px!important;
+    line-height: 1!important;
+}
+
+/* .menu-top ul li{
+    font-size: 26px!important;
+} */
+
+a{
+    font-size: 20px;
+}
+
+.logo{
+    padding-right: 186px!important;
+}
+
+.tong2div{
+    position: relative;
+}
+
+
+
+.view7-tinhhoa{
+    text-align: center;
+}
+
+.view7-nut{
+    width: 7%;
+    
+}
+
+.view7-noibat{
+    text-align: center;
+    
+}
+.bottom-con{
+    width: 35%;
+    height: 40px;
+}
+
+.view5-product{
+    padding-bottom: 40px;
+}
+
+.view5-botright{
+    padding-left: 20px;
+    padding-top: 35px;
+}
+
+.view5-checkbox{
+    font-size: 10px;
+}
+
+.view5-product{
+    justify-content: center;
+    
+}
+
+.product-item{
+    width: 22%;
+}
+
+.images{
+    width: 84%!important;
+}
+
+.view7-content{
+    width: 83%!important;
+    padding-left: 10%;
+    padding-top: 6%;
+    text-align: justify
+}
+
+.product-image{
+    text-align: center;
+}
+
+.mid-product{
+    padding-top: 7%;
+    text-align: center;
+}
+
+.view7-sectionbottom{
+    margin: 40% 43%;
+}
