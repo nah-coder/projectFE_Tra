@@ -48,6 +48,7 @@
 .listProduct{
     padding-bottom: 40px;
     flex-wrap: wrap;
+    width: 843px;
 }
 
 .view5-botright{
